@@ -1,5 +1,5 @@
 //Örnek 4.1. MIN_VALUE/ MAX_VALUE ve SIZE komutlarının kullanım örneği
-public class MyClass {
+public class Ornek4_1 {
     public static void main(String args[]) {
       System.out.println("int maksimumu=" + Integer.MAX_VALUE );
       System.out.println("float maksimumu=" + Float.MAX_VALUE); 
